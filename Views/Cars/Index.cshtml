@@ -1,0 +1,59 @@
+﻿@model IEnumerable<VANTAN_AUTO.Models.Car>
+
+@{
+    ViewData["Title"] = "Danh Sách Xe";
+}
+
+<h1 class="text-center text-primary my-4">Danh Sách Xe</h1>
+
+<p class="text-center">
+    <a asp-action="Create" asp-controller="Cars" class="btn btn-success">Thêm Xe Mới</a>
+</p>
+
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm border-0 h-100">
+                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Title" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">@item.Title</h5>
+                        
+                        <p class="card-text"><strong>Năm SX:</strong> @item.ReleaseDate.ToString("yyyy")</p>
+                        <p class="card-text"><strong>Giá:</strong> @item.Price.ToString("N0") Triệu VND</p>
+
+                        <p class="card-text">@item.Description</p>
+                    </div>
+                    <div class="card-footer bg-white border-0 text-center">
+                        <a asp-action="Edit" asp-controller="Cars" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Sửa</a>
+                        
+                        <a asp-action="Delete" asp-controller="Cars" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Xóa</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    
+    body {
+        background: linear-gradient(to right, #141E30, #243B55);
+        font-family: 'Poppins', sans-serif;
+    }
+    h1.display-4 {
+        color: red;
+        font-weight: bold;
+    }
+
+    .card-body .row .col-sm-2,
+    .card-body .row .col-sm-10 {
+        color: black;
+    }
+
+        .card:hover {
+            transform: scale(1.03);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+</style>

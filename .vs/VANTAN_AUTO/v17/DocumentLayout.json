@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|d:\\vantan_auto-main\\vantan_auto-main\\vantan_auto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|d:\\vantan_auto-main\\vantan_auto-main\\vantan_auto\\data\\vantan_autocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|solutionrelative:data\\vantan_autocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|d:\\vantan_auto-main\\vantan_auto-main\\vantan_auto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|d:\\vantan_auto-main\\vantan_auto-main\\vantan_auto\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|d:\\vantan_auto-main\\vantan_auto-main\\vantan_auto\\vantan_auto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|solutionrelative:vantan_auto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|d:\\vantan_auto-main\\vantan_auto-main\\vantan_auto\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FD82FF9-CA64-47B6-9C78-06E9BDF61C8D}|VANTAN_AUTO.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T03:15:18.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:13:03.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VANTAN_AUTOContext.cs",
+              "DocumentMoniker": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\Data\\VANTAN_AUTOContext.cs",
+              "RelativeDocumentMoniker": "Data\\VANTAN_AUTOContext.cs",
+              "ToolTip": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\Data\\VANTAN_AUTOContext.cs",
+              "RelativeToolTip": "Data\\VANTAN_AUTOContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:12:54.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:05:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VANTAN_AUTO",
+              "DocumentMoniker": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\VANTAN_AUTO.csproj",
+              "RelativeDocumentMoniker": "VANTAN_AUTO.csproj",
+              "ToolTip": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\VANTAN_AUTO.csproj",
+              "RelativeToolTip": "VANTAN_AUTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T03:04:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T03:03:26.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

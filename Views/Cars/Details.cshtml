@@ -1,0 +1,145 @@
+﻿@model VANTAN_AUTO.Models.Car
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container py-5">
+
+    <div class="row">
+        <!-- Left Column: Car Description -->
+        <div class="col-md-6">
+            <h2 class="display-5 fw-bold text-center">Mô Tả Về Xe</h2>
+            <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                    <h3 class="my-0 font-weight-normal">@Model.Title</h3>
+                </div>
+                <div class="card-body">
+                    <div class="row mb-3">
+                        <div class="col-sm-4 font-weight-bold">Tên Xe:</div>
+                        <div class="col-sm-8">@Html.DisplayFor(model => model.Title)</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-4 font-weight-bold">Năm Sản Xuất:</div>
+                        <div class="col-sm-8">@Model.ReleaseDate.ToString("yyyy")</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-4 font-weight-bold">Loại Xe:</div>
+                        <div class="col-sm-8">@Html.DisplayFor(model => model.Genre)</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-4 font-weight-bold">Giá Xe:</div>
+                        <div class="col-sm-8">@Model.Price.ToString("N0") Triệu VND</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-4 font-weight-bold">Hãng:</div>
+                        <div class="col-sm-8">@Html.DisplayFor(model => model.Manufacturer)</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-4 font-weight-bold">Mô Tả:</div>
+                        <div class="col-sm-8">@Html.DisplayFor(model => model.Description)</div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-4 font-weight-bold">Ảnh:</div>
+                        <div class="col-sm-8">
+                            <img src="@Model.ImageUrl" alt="Car Image" class="img-fluid" style="max-width: 300px; height: auto;" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Right Column: Contact Information -->
+        <div class="col-md-6">
+            <h2 class="display-5 fw-bold text-center">  Đặt Mua Ngay </h2>
+            <div class="card mb-4 shadow-sm">
+                <div class="card-header">
+                    <h3 class="my-0 font-weight-normal">Liên Hệ Văn Tân AUTO</h3>
+                </div>
+                <div class="card-body text-center">
+                    <p class="lead">Chúng tôi luôn sẵn sàng hỗ trợ bạn</p>
+                    <div class="contact-info mt-4">
+                        <p class="fs-5">
+
+                            <strong>Số điện thoại:</strong> 0338 718 174
+                        </p>
+                        <p>
+                            Zalo: 0338718174 (Hà Văn Tân)
+                        </p>
+                        <p>
+                            STK : 050849929 (Sacombank)
+                        </p>
+                        <p>
+                            <strong>Địa chỉ:</strong> 940 Lê Hồng Phong, Nha Trang, Khánh Hòa
+                        </p>
+                        <p>
+                            MUA XE TẠI VANTAN_AUTO BẠN SẼ NHẬN ĐƯỢC QUYỀN LỢI GÌ?
+                        <p>
+                            Mua xe được xem chất xe, kiểm tra khung gầm và kể cả bao gồm cả thợ ngoài
+                        </p>
+                        <p>
+                            Bao Rút Hồ sơ 100% ra Tên cho Khách Hàng
+                        </p>
+                        <p>
+                            Được Trao đổi xe yêu thích mà khách hàng muốn
+                        </p>
+                        <p>
+                            ĐẶT XE NGAY!!!
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<p>
+<div class="d-flex justify-content-center mt-3">
+    
+    <a href="/Home/CarsList" class="btn btn-secondary mx-2">Trở Lại Danh Sách</a>
+</div>
+</p>
+<style>
+    .card {
+        height: 90%;
+        border: 2px solid #4CAF50; /* Màu viền xanh */
+        border-radius: 10px;
+    }
+
+    .row {
+        display: flex;
+        align-items: stretch; /* Giúp các cột có chiều cao bằng nhau */
+    }
+
+    
+    body {
+        background: linear-gradient(to right, #141E30, #243B55);
+        font-family: 'Poppins', sans-serif;
+    }
+
+    h1.display-4, h2.display-5 {
+        color: white;
+        font-weight: bold;
+    }
+
+    .card-body .row .col-sm-4,
+    .card-body .row .col-sm-8 {
+        color: black;
+    }
+
+    .contact-info p {
+        color: black;
+    }
+
+        .row {
+            display: flex;
+            align-items: stretch;
+        }
+
+        .card {
+            flex: 1;
+            border: 2px solid #28a745; /* Viền màu xanh */
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Hiệu ứng bóng */
+        }
+</style>

@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VANTAN_AUTO.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VANTAN_AUTO.i7kw4lxag3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\E300-Cu-4.jpg",
+      "PackagePath": "staticwebassets\\images\\E300-Cu-4.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\LUX A.PNG",
+      "PackagePath": "staticwebassets\\images\\LUX A.PNG"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\Toyota-Land-Cruiser-Prado-GXL-1001x565.png",
+      "PackagePath": "staticwebassets\\images\\Toyota-Land-Cruiser-Prado-GXL-1001x565.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\VinFastFadil.jpg",
+      "PackagePath": "staticwebassets\\images\\VinFastFadil.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\bmw-528i.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-528i.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\bmw-x3-320i-trang-7-btsnslp.png",
+      "PackagePath": "staticwebassets\\images\\bmw-x3-320i-trang-7-btsnslp.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\0zzzcjs0.ibe.png",
+      "PackagePath": "staticwebassets\\images\\cars\\0zzzcjs0.ibe.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\30wtafbp.u33.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\30wtafbp.u33.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\40q5a5ff.ols.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\40q5a5ff.ols.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\51hxi2px.xwp.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\51hxi2px.xwp.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\5prw10y5.lnk.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\5prw10y5.lnk.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\cajgnl0l.ykl.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\cajgnl0l.ykl.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\haxkrr3t.ojm.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\haxkrr3t.ojm.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\hz50cmcp.n35.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\hz50cmcp.n35.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\kc3dkaoe.io0.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\kc3dkaoe.io0.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\l1irmcqd.dba.png",
+      "PackagePath": "staticwebassets\\images\\cars\\l1irmcqd.dba.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\mecj5xsu.or3.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\mecj5xsu.or3.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\o5i4aiy4.y5i.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\o5i4aiy4.y5i.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\oai0km2g.zfi.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\oai0km2g.zfi.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\odqbhoai.0pu.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\odqbhoai.0pu.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\srylppga.ipd.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\srylppga.ipd.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\ugr4udgb.src.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\ugr4udgb.src.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\usodzer5.rw2.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\usodzer5.rw2.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\vgytg5av.dvb.png",
+      "PackagePath": "staticwebassets\\images\\cars\\vgytg5av.dvb.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\wlxo1gys.sln.png",
+      "PackagePath": "staticwebassets\\images\\cars\\wlxo1gys.sln.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\cars\\yy15lo5u.4un.jpg",
+      "PackagePath": "staticwebassets\\images\\cars\\yy15lo5u.4un.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\dc4e7da6-e10f_wm.png",
+      "PackagePath": "staticwebassets\\images\\dc4e7da6-e10f_wm.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\fotuners.jpg",
+      "PackagePath": "staticwebassets\\images\\fotuners.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\lan.jpg",
+      "PackagePath": "staticwebassets\\images\\lan.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\lancruis.jpg",
+      "PackagePath": "staticwebassets\\images\\lancruis.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\lux sa.jpg",
+      "PackagePath": "staticwebassets\\images\\lux sa.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\mec c200.jpg",
+      "PackagePath": "staticwebassets\\images\\mec c200.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\mua-xe-bmw-320i.jpg",
+      "PackagePath": "staticwebassets\\images\\mua-xe-bmw-320i.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\vinfast_lux_sa_20220311090213.jpg",
+      "PackagePath": "staticwebassets\\images\\vinfast_lux_sa_20220311090213.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\z6443718839829_fc52a20bd4155035b2f26f413e2b4def.jpg",
+      "PackagePath": "staticwebassets\\images\\z6443718839829_fc52a20bd4155035b2f26f413e2b4def.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\images\\ảnh thẻ.jpg",
+      "PackagePath": "staticwebassets\\images\\ảnh thẻ.jpg"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\VANTAN_AUTO-main\\VANTAN_AUTO-main\\VANTAN_AUTO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VANTAN_AUTO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VANTAN_AUTO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VANTAN_AUTO.props",
+      "PackagePath": "build\\VANTAN_AUTO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VANTAN_AUTO.props",
+      "PackagePath": "buildMultiTargeting\\VANTAN_AUTO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VANTAN_AUTO.props",
+      "PackagePath": "buildTransitive\\VANTAN_AUTO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

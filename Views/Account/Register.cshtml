@@ -1,0 +1,66 @@
+﻿@model VANTAN_AUTO.Models.RegisterViewModel
+
+@* Ensure the correct namespace is used *@
+@using VANTAN_AUTO.Models
+
+<h1>Đăng Ký Để Nhận Thông Tin Về Xe Mới Về Sớm Nhất!</h1>
+
+<form asp-action="Register" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Fullname" class="form-label">Họ tên</label>
+        <input asp-for="Fullname" class="form-control" autocomplete="name" />
+        <span asp-validation-for="Fullname" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Numberphone">Nhập số điện thoại</label>
+        <input asp-for="Numberphone" class="form-control" autocomplete="numberphone" />
+        <span asp-validation-for="Numberphone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">Nhập Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Mật Khẩu</label>
+        <input asp-for="Password" class="form-control" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Nhập Lại Mật Khẩu</label>
+        <input asp-for="ConfirmPassword" class="form-control" type="password" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Đăng Ký</button>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+<style>
+    body {
+        background: linear-gradient(to right, #141E30, #243B55);
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    h1 {
+        text-align: center; /* Center the Đăng Nhập text */
+    }
+
+    form {
+        max-width: 400px; /* Giới hạn chiều rộng form */
+        margin: 50px auto; /* Căn giữa form theo chiều ngang và cách trên */
+        padding: 20px;
+    }
+
+    .form-control {
+        height: 40px; /* Giảm chiều cao ô nhập */
+        font-size: 16px;
+    }
+</style>

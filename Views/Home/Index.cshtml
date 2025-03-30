@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Văn Tân AUTO - Trang Chủ</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(to right, #141E30, #243B55);
+            color: white;
+        }
+         .header {
+        background: linear-gradient(to right, #1E3C72, #2A5298);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 15px 30px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    }
+        /* Chỉnh logo + tên thương hiệu */
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 10px; /* Khoảng cách giữa logo và chữ */
+        }
+
+        .logo {
+            width:150px;/* Điều chỉnh kích thước logo */
+            height: auto;
+        }
+
+        .brand-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: white;
+        }
+
+        /* Điều chỉnh thanh tìm kiếm và logo trong cùng một hàng */
+        .header-section {
+            display: flex;
+            align-items: center;
+            gap: 20px; /* Khoảng cách giữa logo và thanh tìm kiếm */
+            margin-top: 20px;
+        }
+
+        .hero-section {
+            height: 25vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .hero-title {
+            margin-top: -20px;
+        }
+
+        .car-list {
+            padding: 20px 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .car-item {
+            background: white;
+            color: black;
+            border-radius: 10px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 300px;
+            transition: transform 0.3s ease;
+        }
+
+            .car-item:hover {
+                transform: scale(1.05);
+            }
+
+            .car-item img {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+                border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+            }
+
+        .car-info {
+            padding: 15px;
+            text-align: center;
+        }
+
+        .btn-custom {
+            background-color: #ffcc00;
+            color: black;
+            font-weight: bold;
+            padding: 5px 15px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+            .btn-custom:hover {
+                background-color: #ff9900;
+                color: white;
+            }
+    </style>
+</head>
+<body>
+    <!-- Thanh tìm kiếm và logo trong cùng một hàng -->
+    <div class="container header-section">
+        <!-- Logo và tên thương hiệu -->
+        <div class="logo-container">
+            <img src="./images/logo.png" alt="VANTAN_AUTO Logo" class="logo">
+        
+        </div>
+
+        <!-- Thanh tìm kiếm -->
+        <form method="get" class="row g-3 flex-grow-1">
+            <div class="col-md-4">
+                <input type="text" name="title" class="form-control" placeholder="Tìm tên xe...">
+            </div>
+            <div class="col-md-2">
+                <input type="number" name="minPrice" class="form-control" placeholder="Giá thấp nhất">
+            </div>
+            <div class="col-md-2">
+                <input type="number" name="maxPrice" class="form-control" placeholder="Giá cao nhất">
+            </div>
+            <div class="col-md-2">
+                <input type="number" name="releaseYear" class="form-control" placeholder="Năm sản xuất">
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-primary w-100">Lọc</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Phần chào mừng -->
+    <div class="container-fluid hero-section">
+        <div class="container">
+            <h1 class="hero-title display-3 fw-bold">Chào Mừng Bạn Đến Với Văn Tân AUTO</h1>
+            <p class="lead">Nơi kinh doanh ô tô cũ luôn đặt chất lượng lên hàng đầu</p>
+        </div>
+    </div>
+
+    <!-- Danh sách xe -->
+    <div class="container car-list">
+        @foreach (var car in Model)
+        {
+            <div class="car-item">
+                <img src="@car.ImageUrl" alt="@car.Title">
+                <div class="car-info">
+                    <h5>@car.Title</h5>
+                    <p>@car.Description</p>
+                    <p><strong>Giá:</strong> @car.Price.ToString("N0") Triệu VNĐ</p>
+                    <a href="/Home/Details/@car.Id" class="btn-custom">Xem chi tiết</a>
+                </div>
+            </div>
+        }
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

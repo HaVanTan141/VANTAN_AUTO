@@ -1,0 +1,92 @@
+﻿@model IEnumerable<VANTAN_AUTO.Models.Car>
+
+@{
+    ViewData["Title"] = "Danh sách xe";
+}
+
+<!-- Logo and Title Container -->
+<div class="header-container d-flex align-items-center justify-content-center mt-4 mb-5">
+    <div class="logo-container me-3">
+        <img src="~/images/logo.png" alt="VANTAN_AUTO Logo" class="logo">
+    </div>
+    <h2 class="text-white fw-bold mb-0">Danh Sách Xe</h2>
+</div>
+
+@if (Model.Any())
+{
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 col-sm-6 mb-4">
+                    <div class="card shadow-lg p-3 mb-5 bg-white rounded">
+                        <img src="@item.ImageUrl" class="card-img-top img-fluid car-image" alt="Hình xe">
+                        <div class="card-body text-center">
+                            <h5 class="card-title text-dark fw-bold">@item.Title</h5>
+                            <p class="text-muted"><i class="bi bi-tag"></i> Loại: @item.Genre</p>
+                            <p class="text-danger fw-bold"><i class="bi bi-cash-coin"></i> Giá: @item.Price.ToString("N0") Triệu VNĐ</p>
+                            <a asp-action="Details" asp-controller="Home" asp-route-id="@item.Id" class="btn btn-primary">
+                                <i class="bi bi-eye"></i> Xem chi tiết
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}
+else
+{
+    <p class="text-center">Không có xe nào trong danh sách.</p>
+}
+
+<style>
+    body {
+        background: linear-gradient(to right, #141E30, #243B55);
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    /* Header Container Styles */
+    .header-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 40px; /* Increased margin to create space below header */
+    }
+
+    .logo-container {
+        margin-right: 15px; /* Space between logo and text */
+    }
+
+    .logo {
+        max-width: 150px; /* Adjust the max width as needed */
+        height: auto;
+        border-radius: 10px; /* Optional: Add rounded corners */
+    }
+
+    /* Card and Image Adjustments */
+    .car-image {
+        max-height: 200px; /* Limit the height of car images */
+        object-fit: cover; /* Ensure images fit well within the card */
+    }
+
+    .card {
+        transition: transform 0.3s ease-in-out;
+    }
+
+        .card:hover {
+            transform: scale(1.05); /* Slight zoom effect on hover */
+        }
+
+    /* Ensure text is readable on dark background */
+    h2 {
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        margin-bottom: 0; /* Remove default margin to align with logo */
+    }
+
+    .text-muted {
+        color: #ccc !important; /* Lighter muted text for contrast */
+    }
+</style>

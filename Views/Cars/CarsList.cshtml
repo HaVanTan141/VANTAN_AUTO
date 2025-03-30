@@ -1,0 +1,55 @@
+﻿@model List<VANTAN_AUTO.Models.Car>
+
+<h2>Danh sách xe Car</h2>
+<p>
+    <a asp-action="Create">Thêm Xe Mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tiêu đề</th>
+            <th>Ngày phát hành</th>
+            <th>Thể loại</th>
+            <th>Giá</th>
+            <th>Ảnh</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in Model)
+        {
+            <tr>
+                <td>@car.Title</td>
+                <td>@car.ReleaseDate.ToShortDateString()</td>
+                <td>@car.Genre</td>
+                <td>@car.Price</td>
+                <td>@car.Description</td>
+
+                <td>
+                    @if (!string.IsNullOrEmpty(car.ImageUrl))
+                    {
+                        <img src="@car.ImageUrl" width="100" />
+                    }
+                    else
+                    {
+                        <span>Không có ảnh</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<style>
+    body {
+        background: linear-gradient(to right, #141E30, #243B55);
+        font-family: 'Poppins', sans-serif;
+    }
+    h1.display-4 {
+        color: red;
+        font-weight: bold;
+    }
+
+    .card-body .row .col-sm-2,
+    .card-body .row .col-sm-10 {
+        color: black;
+    }
+</style>
